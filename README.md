@@ -1,11 +1,64 @@
-# 👋 Hi, I’m @Nathnaelgithub
-## 🚀 About me
-- 🎓 Recent Software Engineering graduate.
-- 💻 Passionate about technology, specializing in Flutter development.
-- 🌱 I’m currently learning and building projects with Flutter.
-## 💞️ I’m looking to collaborate on 
-- 📱 Flutter mobile app development projects.
-- 💡 Innovative tech projects that solve real-world problems.
+# 🌟 Nathnael — Software Engineer | Full-Stack Developer | Cybersecurity Enthusiast
+Hi! I'm Nathnael, a Software Engineering graduate passionate about building scalable applications, high-quality user experiences, and secure systems.
+I enjoy turning ideas into production-ready solutions—whether it's web, mobile, or network security tools.
+## 🚀 Tech Stack
+Frontend & Mobile
+
+Flutter, Dart
+
+React.js, HTML5, CSS3
+
+Tailwind CSS
+
+Backend
+
+Node.js, Express.js
+
+Firebase Authentication, Firestore, Cloud Storage
+
+Java (Core + OOP + Networking)
+
+Databases
+
+MongoDB
+
+Firebase
+
+MySQL
+
+Tools & Platforms
+
+Git & GitHub
+
+Linux, Ubuntu
+
+Postman
+
+VS Code, IntelliJ
+
+Android Studio
+
+🧠 Core Interests
+
+Full-Stack Web Development
+
+Mobile App Development (Flutter)
+
+Cybersecurity & Network Security
+
+Machine Learning (for security tools)
+
+Cloud Services (Firebase, Render, Netlify)
+## 🧠 Core Interests
+Full-Stack Web Development
+
+Mobile App Development (Flutter)
+
+Cybersecurity & Network Security
+
+Machine Learning (for security tools)
+
+Cloud Services (Firebase, Render, Netlify)
 ## 📫 How to reach me 
 - 📧 Email: nathnaeltsegay2@gmail.com
 - 💼 LinkedIn: Nathnael Tsegay https://www.linkedin.com/in/nathnael-tsegay-822200323
