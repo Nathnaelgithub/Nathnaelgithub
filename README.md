@@ -6,20 +6,17 @@ I enjoy turning ideas into production-ready solutions—whether it's web, mobile
 
 ## 🚀 Tech Stack
 
-**Frontend (Web):**  
-React.js, HTML5, CSS3, Tailwind CSS  
-
-**Mobile:**  
-Flutter, Dart  
+**Frontend:**  
+'Flutter', 'Dart', 'React.js', 'HTML5', 'CSS3', 'Tailwind CSS'  
 
 **Backend:**  
-Node.js, Express.js, Java (Core + OOP + Networking), Firebase Authentication, Firestore, Cloud Storage  
+'Node.js', 'Express.js', 'Java (Core + OOP + Networking)', 'Firebase Authentication', 'Firestore', 'Cloud Storage'  
 
 **Databases:**  
-MongoDB, MySQL, Firebase  
+'MongoDB', 'MySQL', 'Firebase'  
 
 **Tools & Platforms:**  
-Git & GitHub, Linux/Ubuntu, Postman, VS Code, IntelliJ, Android Studio  
+'Git & GitHub', 'Linux/Ubuntu', 'Postman', 'VS Code', 'IntelliJ', 'Android Studio'  
 
 ## 🧠 Core Interests
 
