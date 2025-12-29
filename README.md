@@ -1,68 +1,43 @@
-# 🌟 Nathnael — Software Engineer | Full-Stack Developer | Cybersecurity Enthusiast
+# 🌟 Nathnael — Software Engineer | Full-Stack Developer | Cybersecurity & AI Enthusiast
+
 Hi! I'm Nathnael, a Software Engineering graduate passionate about building scalable applications, high-quality user experiences, and secure systems.
+
 I enjoy turning ideas into production-ready solutions—whether it's web, mobile, or network security tools.
+
 ## 🚀 Tech Stack
-Frontend & Mobile
 
-Flutter, Dart
+**Frontend (Web):**  
+React.js, HTML5, CSS3, Tailwind CSS  
 
-React.js, HTML5, CSS3
+**Mobile:**  
+Flutter, Dart  
 
-Tailwind CSS
+**Backend:**  
+Node.js, Express.js, Java (Core + OOP + Networking), Firebase Authentication, Firestore, Cloud Storage  
 
-Backend
+**Databases:**  
+MongoDB, MySQL, Firebase  
 
-Node.js, Express.js
+**Tools & Platforms:**  
+Git & GitHub, Linux/Ubuntu, Postman, VS Code, IntelliJ, Android Studio  
 
-Firebase Authentication, Firestore, Cloud Storage
-
-Java (Core + OOP + Networking)
-
-Databases
-
-MongoDB
-
-Firebase
-
-MySQL
-
-Tools & Platforms
-
-Git & GitHub
-
-Linux, Ubuntu
-
-Postman
-
-VS Code, IntelliJ
-
-Android Studio
-
-🧠 Core Interests
-
-Full-Stack Web Development
-
-Mobile App Development (Flutter)
-
-Cybersecurity & Network Security
-
-Machine Learning (for security tools)
-
-Cloud Services (Firebase, Render, Netlify)
 ## 🧠 Core Interests
-Full-Stack Web Development
 
-Mobile App Development (Flutter)
+- Full-Stack Web Development
 
-Cybersecurity & Network Security
+- Mobile App Development (Flutter)
 
-Machine Learning (for security tools)
+- Cybersecurity & Network Security
 
-Cloud Services (Firebase, Render, Netlify)
-## 📫 How to reach me 
-- 📧 Email: nathnaeltsegay2@gmail.com
-- 💼 LinkedIn: Nathnael Tsegay https://www.linkedin.com/in/nathnael-tsegay-822200323
-- 😄 Pronouns: He/Him 
+- Machine Learning (for security tools)
+
+- Cloud Services (Firebase, Render, Netlify)
+
+## 📫 How to reach me
+
+- 📧 Email: <nathnaeltsegay2@gmail.com>
+- 💼 LinkedIn: Nathnael Tsegay <https://www.linkedin.com/in/nathnael-tsegay-822200323>
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a fitness enthusiast who hits the gym regularly and enjoys long-distance running
 
 <!---
