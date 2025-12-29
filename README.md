@@ -7,16 +7,16 @@ I enjoy turning ideas into production-ready solutions—whether it's web, mobile
 ## 🚀 Tech Stack
 
 **Frontend:**  
-'Flutter', 'Dart', 'React.js', 'HTML5', 'CSS3', 'Tailwind CSS'  
+Flutter, Dart, React.js, HTML5, CSS3, Tailwind CSS  
 
 **Backend:**  
-'Node.js', 'Express.js', 'Java (Core + OOP + Networking)', 'Firebase Authentication', 'Firestore', 'Cloud Storage'  
+Node.js, Express.js, Java (Core + OOP + Networking), Firebase Authentication, Firestore, Cloud Storage  
 
 **Databases:**  
-'MongoDB', 'MySQL', 'Firebase'  
+MongoDB, MySQL, Firebase  
 
 **Tools & Platforms:**  
-'Git & GitHub', 'Linux/Ubuntu', 'Postman', 'VS Code', 'IntelliJ', 'Android Studio'  
+Git & GitHub, Linux/Ubuntu, Postman, VS Code, IntelliJ, Android Studio  
 
 ## 🧠 Core Interests
 
@@ -32,7 +32,7 @@ I enjoy turning ideas into production-ready solutions—whether it's web, mobile
 
 ## 📫 How to reach me
 
-- 📧 Email: <nathnaeltsegay2@gmail.com>
+- 📧 Email: <nathnaeltsegay2@gmail.com>(mailto:nathnaeltsegay2@gmail.com)  
 - 💼 LinkedIn: Nathnael Tsegay <https://www.linkedin.com/in/nathnael-tsegay-822200323>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a fitness enthusiast who hits the gym regularly and enjoys long-distance running
