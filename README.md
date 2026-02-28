@@ -1,41 +1,55 @@
-# 🌟 Nathnael — Software Engineer | Full-Stack Developer | Cybersecurity & AI Enthusiast
+# Hi, I'm Nathnael 👋
 
-Hi! I'm Nathnael, a Software Engineering graduate passionate about building scalable applications, high-quality user experiences, and secure systems.
+Frontend & Mobile Developer passionate about building modern, responsive, and high-performance applications.
 
-I enjoy turning ideas into production-ready solutions—whether it's web, mobile, or network security tools.
+---
 
-## 🚀 Tech Stack
+## 🚀 About Me
 
-**Frontend:**  
-Flutter, Dart, React.js, HTML5, CSS3, Tailwind CSS  
+I specialize in building user-focused web and mobile applications using React, Next.js, TypeScript, and Flutter.  
+I enjoy designing clean UI systems, writing maintainable code, and integrating scalable backend services like Firebase and Node.js.
 
-**Backend:**  
-Node.js, Express.js, Java (Core + OOP + Networking), Firebase Authentication, Firestore, Cloud Storage  
+Currently focused on:
+- Modern frontend architecture
+- Mobile app development with Flutter
+- Clean Architecture & REST API integration
+- Building polished product-level UIs
 
-**Databases:**  
-MongoDB, MySQL, Firebase  
+---
 
-**Tools & Platforms:**  
-Git & GitHub, Linux/Ubuntu, Postman, VS Code, IntelliJ, Android Studio  
+## 🛠 Tech Stack
 
-## 🧠 Core Interests
+### Frontend
+React • Next.js • TypeScript • Tailwind CSS • Vite
 
-- Full-Stack Web Development
+### Mobile
+Flutter • Firebase
 
-- Mobile App Development (Flutter)
+### Backend
+Node.js • Express • MongoDB
 
-- Cybersecurity & Network Security
+### Tools
+Git • GitHub • VS Code • Trello
 
-- Machine Learning (for security tools)
+---
 
-- Cloud Services (Firebase, Render, Netlify)
+## 📱 Projects
 
-## 📫 How to reach me
+### 🔹 Expense Tracker (Flutter + Firebase)
+A mobile application for tracking expenses and analytics.  
+Implemented real-time data synchronization, authentication, and Clean Architecture principles.
 
-- 📧 Email: <nathnaeltsegay2@gmail.com>(mailto:nathnaeltsegay2@gmail.com)  
-- 💼 LinkedIn: Nathnael Tsegay <https://www.linkedin.com/in/nathnael-tsegay-822200323>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a fitness enthusiast who hits the gym regularly and enjoys long-distance running
+### 🔹 Portfolio Website
+Modern developer portfolio built with React, Vite, TypeScript, and Tailwind CSS featuring responsive layouts and smooth UI interactions.
+
+---
+
+## 📫 Connect With Me
+
+- Email: nathnaeltsegay2@gmail.com  
+- LinkedIn: https://linkedin.com/in/nathnael-tsegay-822200323  
+- Pronouns: He/Him
+- Fun fact: I'm a fitness enthusiast who hits the gym regularly and enjoys long-distance running
 
 <!---
 Nathnaelgithub/Nathnaelgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
